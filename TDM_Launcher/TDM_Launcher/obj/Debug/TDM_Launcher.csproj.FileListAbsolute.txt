@@ -1,0 +1,8 @@
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\bin\Debug\TDM_Launcher.exe.config
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\bin\Debug\TDM_Launcher.exe
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\bin\Debug\TDM_Launcher.pdb
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\obj\Debug\TDM_Launcher.csprojResolveAssemblyReference.cache
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\obj\Debug\TDM_Launcher.csproj.GenerateResource.Cache
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\obj\Debug\TDM_Launcher.exe
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\obj\Debug\TDM_Launcher.pdb
+C:\Users\freek\Documents\SharpDevelop Projects\TDM_Launcher\TDM_Launcher\obj\Debug\TDM_Launcher.MainForm.resources
